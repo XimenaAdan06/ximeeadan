@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <pattern>Tarea</pattern>
+    <template>¿Necesitas ayuda con tu tarea? Puedo explicarte.</template>
+  </category>
+  <category>
+    <pattern>Perrito</pattern>
+    <template>¿Que raza es?</template>
+  </category>
+  <category>
+    <pattern>Color</pattern>
+    <template>¿Color favorito?</template>
+  </category>
+  <category>
+    <pattern>deporte</pattern>
+    <template>¿Algun deporte?</template>
+  </category>
+  <category>
+    <pattern>comida</pattern>
+    <template>¿comida favorita? Puedo explicarte.</template>
+  </category>
+  <category>
+    <pattern>tenis</pattern>
+    <template>¿que tenis tienes?</template>
+  </category>
+</aiml> 
